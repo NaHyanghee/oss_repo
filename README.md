@@ -8,3 +8,5 @@ Today I learned:
 *How to chech the status for my repository
 *How eto check
 *And more!!
+
+*9월22일
